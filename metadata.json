@@ -1,0 +1,6 @@
+{
+  "name": "Raspadita Nexor",
+  "description": "Raspadita virtual interactiva para clientes de Nexor Urban Motion. Válido para compras mayores a $50.000 con canje vía WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
